@@ -3,10 +3,33 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
 }
 /*reset/*/
+
+/*rule general*/
+
+body{
+    background-color: #f6f8fa;
+}
+
+/*rule general/*/
+
+/*header*/
 
 .header{
     height: 64px;
     background-color: white;
 }
+
+h1{
+    display: inline-block;
+    width: 176px;
+    vertical-align: middle;
+}
+
+.img{
+    vertical-align: middle;
+}
+
+/*header/*/
