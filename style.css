@@ -13,14 +13,31 @@ body{
     background-color: #f6f8fa;
 }
 
-/*rule general/*/
-
-/*header*/
-
 .header{
     height: 64px;
     background-color: white;
 }
+
+.container{
+    width: 790px;
+    height: 590px;
+    background-color: white;
+    margin: 40px auto;
+}
+
+.margin-page{
+    margin-left: 50px;
+}
+
+hr{
+    height: 3px;
+    background-color: #f6f8f9;
+    border: 0;
+    margin-top: 7px;
+}
+/*rule general/*/
+
+/*header*/
 
 h1{
     display: inline-block;
@@ -33,3 +50,29 @@ h1{
 }
 
 /*header/*/
+
+/*botton*/
+
+.addtask{
+    color: white;
+    background-color:#47acee;
+    padding: 7px 10px;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: #47acee;
+    border: solid 2px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.section{
+    color: #cbcbcb;
+    padding: 7px 10px;
+    display: inline-block;
+    font-size: 15px;
+    border: solid 2px;
+    border-radius: 5px;
+    border-color:#cbcbcb;
+    margin-top: 15px;  
+}
