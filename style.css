@@ -16,13 +16,14 @@ body{
 .header{
     height: 64px;
     background-color: white;
+    margin-bottom: 40px;
 }
 
 .container{
     width: 790px;
     height: 590px;
     background-color: white;
-    margin: 40px auto;
+    margin: 0 30%;
 }
 
 .margin-page{
