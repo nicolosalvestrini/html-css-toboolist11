@@ -39,6 +39,11 @@ hr{
 
 h2{
     margin-bottom: 14px;
+    margin-top: 34px;
+}
+
+p{
+    margin-bottom: 22px;
 }
 /*rule general/*/
 
@@ -97,6 +102,18 @@ h1{
     font-size: 10px
 }
 
+.x{
+    border: solid 1px;
+    border-radius: 50%;
+    border-color: #a35954;
+    color: #a35954;
+    padding: 2px 3px;
+    margin-right: 5px;
+    vertical-align: middle;
+    font-size: 10px
+
+}
+
 .freccia{
     font-size: 20px;
 }
@@ -107,6 +124,18 @@ h1{
 
 .botton-color-blue{
     background-color: #47acee;
+}
+
+.botton-color-purple{
+    background-color: #9c72e9;
+}
+
+.botton-color-green{
+    background-color: #63c2a9;
+}
+
+.botton-color-orange{
+    background-color: #f1a035;
 }
 
 .graphic{
